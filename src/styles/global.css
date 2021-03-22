@@ -4,6 +4,7 @@
 
 html {
     font-size: 11px;
+    font-size: min(max(11px, 2vw), 17px);
     font-size: clamp(11px, 2vw, 17px);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
