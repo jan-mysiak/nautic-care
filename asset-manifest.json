@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nautic-care/static/css/main.d6f88783.chunk.css",
+    "main.js": "/nautic-care/static/js/main.026ae68d.chunk.js",
+    "main.js.map": "/nautic-care/static/js/main.026ae68d.chunk.js.map",
+    "runtime-main.js": "/nautic-care/static/js/runtime-main.1fb0454d.js",
+    "runtime-main.js.map": "/nautic-care/static/js/runtime-main.1fb0454d.js.map",
+    "static/css/2.3f6a4e7d.chunk.css": "/nautic-care/static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.62a9b8e1.chunk.js": "/nautic-care/static/js/2.62a9b8e1.chunk.js",
+    "static/js/2.62a9b8e1.chunk.js.map": "/nautic-care/static/js/2.62a9b8e1.chunk.js.map",
+    "index.html": "/nautic-care/index.html",
+    "static/css/2.3f6a4e7d.chunk.css.map": "/nautic-care/static/css/2.3f6a4e7d.chunk.css.map",
+    "static/css/main.d6f88783.chunk.css.map": "/nautic-care/static/css/main.d6f88783.chunk.css.map",
+    "static/js/2.62a9b8e1.chunk.js.LICENSE.txt": "/nautic-care/static/js/2.62a9b8e1.chunk.js.LICENSE.txt",
+    "static/media/global.css": "/nautic-care/static/media/cover4.d87dafbc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fb0454d.js",
+    "static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.62a9b8e1.chunk.js",
+    "static/css/main.d6f88783.chunk.css",
+    "static/js/main.026ae68d.chunk.js"
+  ]
+}
