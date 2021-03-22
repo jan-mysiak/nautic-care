@@ -1,0 +1,10 @@
+:root {
+    --font-primary: "Roboto", sans-serif;
+    --font-secondary: 'Courier New', Courier, monospace;
+    --color-light: #ffffff;
+    --color-dark: #333333;
+    --color-accent: rgb(177, 56, 56);
+    --topnav-height: 4rem;
+    --light-border: solid 1px rgba(0, 0, 0, .3);
+    --row-height: 2.2rem;
+}
